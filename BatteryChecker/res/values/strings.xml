@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BatteryChecker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="noti_title">Battery Checker</string>
+    <string name="noti_sub">Monitoring Battery Use</string>
+    <string name="service_on">Battery Checker is activated</string>
+</resources>
